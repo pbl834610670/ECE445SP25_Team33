@@ -1,5 +1,6 @@
-# ECE445SP25_Team33
-This is for the documentation of designing a table-cleaning robot in ECE 445 SP25
+# ECE445SP25 Team33 Lab Notebook
+Name: Ann Luo
+NetID: hluo12
 
 ## 04/05/2025
 I worked on writing the code for the edge detection subsystem and began integrating it with the obstacle avoidance code. Further testing of the sensor readings is still needed to ensure smooth and successful integration. The logic may need to be adjusted to prevent any conflicts between the two subsystems.
