@@ -2,9 +2,9 @@
 This is for the documentation of designing a table-cleaning robot in ECE 445 SP25
 
 ## 04/05/2025
-Today, I worked on writing the code for edge detection and tried to combine it with the obstacle avoidance code.
+I worked on writing the code for the edge detection subsystem and began integrating it with the obstacle avoidance code. Further testing of the sensor readings is still needed to ensure smooth and successful integration. The logic may need to be adjusted to prevent any conflicts between the two subsystems.
 
 ## 04/01/2025
-Today, we tested the functionality of the cooling fan and make sure it was able to suck up dusts on the table. We also talked to the machine shop about the design of our car boards.
+We first tested whether the voltage converter could successfully step up the voltage from 3.7V to 12V. After confirming it worked as expected, we connected one end of the converter to the battery and the other end to the vacuum fan. We then tested the functionality of the cooling fan to ensure it was able to effectively suck up dust from the table surface. In addition, we discussed the design of our robot’s base boards with the staff at the machine shop.
 
 ##
