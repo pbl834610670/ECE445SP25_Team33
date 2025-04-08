@@ -1,5 +1,5 @@
 # ECE445SP25 Team33 Lab Notebook
-Name: Ann Luo
+Name: Ann Luo\
 NetID: hluo12
 
 ## 04/05/2025
