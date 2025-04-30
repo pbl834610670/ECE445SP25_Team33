@@ -1,6 +1,6 @@
-##1.4 High-level Requirements List##
-Edge Detection and Fall Prevention: The robot must detect table edges using ultrasonic sensors and respond by stopping or changing direction within 2 cm of the edge to prevent falling.
 
-Debris Collection Efficiency: The cleaning system must remove at least 90% of dust, crumbs, and small debris from a 60 cm x 60 cm table surface in a single cleaning cycle and store the collected debris in a removable bin that holds dirt for at least three full cleaning cycles.
+1. Edge Detection and Fall Prevention: The robot must detect table edges using ultrasonic sensors and respond by stopping or changing direction within 2 cm of the edge to prevent falling.
 
-Obstacle Avoidance and Object Interaction: The robot must detect and navigate around objects as small as 5 cm in diameter and as large as 20 cm in diameter with at least 95% success. It must avoid collisions and prevent pushing objects off the table.
+2. Debris Collection Efficiency: The cleaning system must remove at least 90% of dust, crumbs, and small debris from a 60 cm x 60 cm table surface in a single cleaning cycle and store the collected debris in a removable bin that holds dirt for at least three full cleaning cycles.
+
+3. Obstacle Avoidance and Object Interaction: The robot must detect and navigate around objects as small as 5 cm in diameter and as large as 20 cm in diameter with at least 95% success. It must avoid collisions and prevent pushing objects off the table.
