@@ -15,6 +15,10 @@ I worked on writing the code for the edge detection subsystem and began integrat
 ## 04/01/2025
 We first tested whether the voltage converter could successfully step up the voltage from 3.7V to 12V. After confirming it worked as expected, we connected one end of the converter to the battery and the other end to the vacuum fan. We then tested the functionality of the cooling fan to ensure it was able to effectively suck up dust from the table surface. In addition, we discussed the design of our robot’s base boards with the staff at the machine shop.
 
+## 02/26/2025
+I researched different options for the components we plan to use in each subsystem of our project. For each part, I compared different models to find the most suitable choices in terms of functionality, compatibility, and cost. To ensure that all components would work well together, especially in terms of voltage and current requirements, we carefully reviewed the datasheets of each component to avoid potential problem later in the development process.
+![354e995e2dbcacfa44e6cf2160314b5](https://github.com/user-attachments/assets/46cbc1c2-cc4b-4208-b290-e6adb3fe9281)
+
 ## 02/21/2025
 We met to discuss the components we will use for each subsystem of our project. Initially, we planned to use a depth camera for detecting the edges of the table. However, after deciding to use only the Arduino Uno as our development board and realizing that the depth camera is relatively expensive and may not be easily compatible，we decided to switch to using ultrasonic sensors for both obstacle avoidance and edge detection. 
 
