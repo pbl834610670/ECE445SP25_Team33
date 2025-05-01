@@ -15,6 +15,14 @@ I worked on writing the code for the edge detection subsystem and began integrat
 ## 04/01/2025
 We first tested whether the voltage converter could successfully step up the voltage from 3.7V to 12V. After confirming it worked as expected, we connected one end of the converter to the battery and the other end to the vacuum fan. We then tested the functionality of the cooling fan to ensure it was able to effectively suck up dust from the table surface. In addition, we discussed the design of our robot’s base boards with the staff at the machine shop.
 
+## 03/06/2025
+We completed the design document today, including finalizing the RV table and updating the visual aid. One of the major changes we made was replacing the depth camera with an ultrasonic sensor for obstacle avoidance, due to cost and compatibility concerns. Additionally, we switched our development board from the Raspberry Pi to the Arduino Uno to simplify our system. For the debris collection subsystem, we are still in the process of selecting a suitable vacuum fan. For now, we’ve included a 12V DC mini vacuum fan as a placeholder in the visual aid, but further research and testing are needed. We also updated our block diagram to ensure it accurately represents our current system design.
+![f44b8bc611ab4006bd9b1bf04e2af41](https://github.com/user-attachments/assets/600d8142-6a10-4b4d-bce8-b72e63fb91fd)
+![299f2aa982a2e6d1f79a8758fba2927](https://github.com/user-attachments/assets/c6a17014-1d42-40eb-bfc1-688750ee3ccd)
+
+## 03/05/2025
+I completed the teamwork evaluation today and continued working on assembling the breadboard. I focused on connecting the key components and verifying that the basic circuits function correctly.
+
 ## 03/04/2025
 We signed up for the breadboard demo today and began working on our breadboard setup. We decided to start by building the robot car itself, focusing on assembling the motors and basic movement. At the same time, we also began implementing the obstacle avoidance functionality using an ultrasonic sensor.
 
