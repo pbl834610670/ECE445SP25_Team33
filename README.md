@@ -10,6 +10,7 @@ We first tested whether the voltage converter could successfully step up the vol
 
 ## 02/13/2025
 We finished writing our project proposal. We considered the details of each subsystem involved in our design and discussed the potential components we might use. We also evaluated different development boards to find out the one that best fits our project. I created the initial visual aid to help visualize our overall design. 
+
 ![92246ff893ad7eb0628becd65d21ea5](https://github.com/user-attachments/assets/2afa7c5d-52d9-4d87-aa50-3ae9c6fe926d)
 ![41863a2be709c09de04f9ec003c0f94](https://github.com/user-attachments/assets/4d02a7ef-e6a6-475f-a698-08f91b930641)
 
