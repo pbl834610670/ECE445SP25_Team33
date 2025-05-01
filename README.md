@@ -15,6 +15,13 @@ I worked on writing the code for the edge detection subsystem and began integrat
 ## 04/01/2025
 We first tested whether the voltage converter could successfully step up the voltage from 3.7V to 12V. After confirming it worked as expected, we connected one end of the converter to the battery and the other end to the vacuum fan. We then tested the functionality of the cooling fan to ensure it was able to effectively suck up dust from the table surface. In addition, we discussed the design of our robot’s base boards with the staff at the machine shop.
 
+## 03/26/2025
+We assembled the electronic components for the obstacle avoidance subsystem and tested the code to verify its functionality. The system appears to be working well so far, but further adjustments may be necessary. This is because we still need to finalize and communicate our specific design requirements for the robot car to the machine shop, and wait for them to complete the final robot car model.
+
+## 03/25/2025
+I spent time researching various vacuum fan options for our debris collection subsystem, but most of them were unsuitable due to issues with voltage, size, or other limitations. After comparing several alternatives, I found a 12V computer cooling fan that might work for our needs and decided to purchase it for testing. Since our battery only supplies 3.7V, I also bought a voltage converter to ensure the fan receives the required power. Additionally, as we plan to solder our PCB in the coming days, I purchased soldering paste.
+![af3d66f9ac77a96362a5bcd1abf75d4](https://github.com/user-attachments/assets/ac4ef819-c02a-4c25-818c-7b0c88bab1f7)
+
 ## 03/14/2025
 We discussed our design with the machine shop and brought up the idea of incorporating a robotic arm into our obstacle avoidance subsystem. The goal was to lift objects and clean the area underneath them. However, they advised us against implementing this feature due to its complexity and feasibility. As a result, we decided to simplify the design and focus on detecting and avoiding obstacles.
 
