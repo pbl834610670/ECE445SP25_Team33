@@ -14,6 +14,10 @@ Tomorrow is our final demo. During testing today, I realized that the code still
 I worked on writing the code for the edge detection subsystem and began integrating it with the obstacle avoidance code. Further testing of the sensor readings is still needed to ensure smooth and successful integration. The logic may need to be adjusted to prevent any conflicts between the two subsystems.
 
 ## 04/02/2025
+I completed the individual progress report today. In the report, I included a flow diagram that outlines the logic we plan to implement for our table-cleaning robot. Since one of our main goals is to ensure the robot can effectively cover the entire table surface, the diagram illustrates the detailed decision-making process and movement logic of our robot car.
+![2a904211518edb4d506f31b6b6bcaa9](https://github.com/user-attachments/assets/580f05fd-47f0-49ef-9f1e-832b8d0e2bac)
+![50caa8d2303a3a2d6351cff5be0d8a7](https://github.com/user-attachments/assets/4d2d3261-adfe-42db-bf70-556989225f4c)
+![5c395bb8cbe6518b622b654fadf03dc](https://github.com/user-attachments/assets/dbea249e-0ce0-47e8-bd39-7c6b9eb0b0a9)
 
 
 ## 04/01/2025
