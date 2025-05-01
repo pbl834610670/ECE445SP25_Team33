@@ -15,6 +15,12 @@ I worked on writing the code for the edge detection subsystem and began integrat
 ## 04/01/2025
 We first tested whether the voltage converter could successfully step up the voltage from 3.7V to 12V. After confirming it worked as expected, we connected one end of the converter to the battery and the other end to the vacuum fan. We then tested the functionality of the cooling fan to ensure it was able to effectively suck up dust from the table surface. In addition, we discussed the design of our robot’s base boards with the staff at the machine shop.
 
+## 03/11/2025
+We had our breadboard demo today. During the demo, we were able to demonstrate that our obstacle detection system works as intended. However, I realized that the presentation could have been more effective if we had connected the obstacle detection system directly to the robot car. This would have allowed us to better show how the robot responds to obstacles in real time, providing a clearer picture of the subsystem’s functionality.
+
+## 03/10/2025
+We now have a clear understanding of our circuit design. We successfully measured the distance between obstacles and our ultrasonic sensor and displayed the readings on the Arduino Uno serial monitor. However, since we are still in the process of assembling the system and want to avoid soldering wires directly onto our L293D motor driver at this stage, we decided not to connect the motors and ultrasonic sensor together.
+
 ## 03/06/2025
 We completed the design document today, including finalizing the RV table and updating the visual aid. One of the major changes we made was replacing the depth camera with an ultrasonic sensor for obstacle avoidance, due to cost and compatibility concerns. Additionally, we switched our development board from the Raspberry Pi to the Arduino Uno to simplify our system. For the debris collection subsystem, we are still in the process of selecting a suitable vacuum fan. For now, we’ve included a 12V DC mini vacuum fan as a placeholder in the visual aid, but further research and testing are needed. We also updated our block diagram to ensure it accurately represents our current system design.
 ![f44b8bc611ab4006bd9b1bf04e2af41](https://github.com/user-attachments/assets/600d8142-6a10-4b4d-bce8-b72e63fb91fd)
