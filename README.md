@@ -15,6 +15,12 @@ I worked on writing the code for the edge detection subsystem and began integrat
 ## 04/01/2025
 We first tested whether the voltage converter could successfully step up the voltage from 3.7V to 12V. After confirming it worked as expected, we connected one end of the converter to the battery and the other end to the vacuum fan. We then tested the functionality of the cooling fan to ensure it was able to effectively suck up dust from the table surface. In addition, we discussed the design of our robot’s base boards with the staff at the machine shop.
 
+## 03/04/2025
+We signed up for the breadboard demo today and began working on our breadboard setup. We decided to start by building the robot car itself, focusing on assembling the motors and basic movement. At the same time, we also began implementing the obstacle avoidance functionality using an ultrasonic sensor.
+
+## 03/03/2025
+Today was the first round for PCB orders, but since we haven’t completed our PCB schematic yet, we plan to submit our order during the second round instead.
+
 ## 02/26/2025
 I researched different options for the components we plan to use in each subsystem of our project. For each part, I compared different models to find the most suitable choices in terms of functionality, compatibility, and cost. To ensure that all components would work well together, especially in terms of voltage and current requirements, we carefully reviewed the datasheets of each component to avoid potential problem later in the development process.
 ![354e995e2dbcacfa44e6cf2160314b5](https://github.com/user-attachments/assets/46cbc1c2-cc4b-4208-b290-e6adb3fe9281)
