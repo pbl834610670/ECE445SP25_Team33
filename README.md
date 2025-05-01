@@ -15,6 +15,12 @@ I worked on writing the code for the edge detection subsystem and began integrat
 ## 04/01/2025
 We first tested whether the voltage converter could successfully step up the voltage from 3.7V to 12V. After confirming it worked as expected, we connected one end of the converter to the battery and the other end to the vacuum fan. We then tested the functionality of the cooling fan to ensure it was able to effectively suck up dust from the table surface. In addition, we discussed the design of our robot’s base boards with the staff at the machine shop.
 
+## 03/14/2025
+We discussed our design with the machine shop and brought up the idea of incorporating a robotic arm into our obstacle avoidance subsystem. The goal was to lift objects and clean the area underneath them. However, they advised us against implementing this feature due to its complexity and feasibility. As a result, we decided to simplify the design and focus on detecting and avoiding obstacles.
+
+## 03/13/2025
+Today was the deadline for the second round of PCB orders. Initially, the machine shop informed us that the files we submitted were incomplete. However, I was able to send the correct and complete files just in time, and they were successfully accepted. As a result, we were able to place our PCB order before the deadline.
+
 ## 03/11/2025
 We had our breadboard demo today. During the demo, we were able to demonstrate that our obstacle detection system works as intended. However, I realized that the presentation could have been more effective if we had connected the obstacle detection system directly to the robot car. This would have allowed us to better show how the robot responds to obstacles in real time, providing a clearer picture of the subsystem’s functionality.
 
