@@ -10,6 +10,10 @@ We had our final demo today. In the morning, before the demonstration, we tested
 ## 04/28/2025
 Tomorrow is our final demo. During testing today, I realized that the code still needed some adjustments. I spent the evening improving it, and by the end of the night, the robot was able to operate smoothly on the table surface. However, the jack port for our PCB board still hasn’t arrived, so we’ll have to wait until tomorrow morning to test whether everything works as expected.
 
+## 04/08/2025
+I’m still working on combining the obstacle avoidance and edge detection code to ensure both subsystems function smoothly together. After testing, I decided to switch from ultrasonic sensors to IR sensors for the edge detection subsystem, as IR sensors have faster response times and greater accuracy for detecting table edges. I ordered the IR sensors online and will begin assembling them on the robot car once they arrive.
+![18e6504bf972bf29fbf9c03f840ba11](https://github.com/user-attachments/assets/bfded471-f034-4664-817f-9fe27c88793b)
+
 ## 04/05/2025
 I worked on writing the code for the edge detection subsystem and began integrating it with the obstacle avoidance code. Further testing of the sensor readings is still needed to ensure smooth and successful integration. The logic may need to be adjusted to prevent any conflicts between the two subsystems.
 
