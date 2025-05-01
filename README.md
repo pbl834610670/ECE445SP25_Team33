@@ -12,11 +12,19 @@ Tomorrow is our final demo. During testing today, I realized that the code still
 ## 04/05/2025
 I worked on writing the code for the edge detection subsystem and began integrating it with the obstacle avoidance code. Further testing of the sensor readings is still needed to ensure smooth and successful integration. The logic may need to be adjusted to prevent any conflicts between the two subsystems.
 
+## 04/02/2025
+
+
 ## 04/01/2025
 We first tested whether the voltage converter could successfully step up the voltage from 3.7V to 12V. After confirming it worked as expected, we connected one end of the converter to the battery and the other end to the vacuum fan. We then tested the functionality of the cooling fan to ensure it was able to effectively suck up dust from the table surface. In addition, we discussed the design of our robot’s base boards with the staff at the machine shop.
+![53b5ac126a8ba9f1cceaa6f1c0ef8f8](https://github.com/user-attachments/assets/38aa8087-5397-4762-89d4-8078bfb12500)
+
+## 03/31/2025
+We didn't place a PCB order during the third round due to issues we encountered while soldering our current board. Some of the pins were too closely spaced, which caused solder bridges and led to a short circuit on the board. Our team decided to focus on fixing this issue first.
 
 ## 03/26/2025
 We assembled the electronic components for the obstacle avoidance subsystem and tested the code to verify its functionality. The system appears to be working well so far, but further adjustments may be necessary. This is because we still need to finalize and communicate our specific design requirements for the robot car to the machine shop, and wait for them to complete the final robot car model.
+![f504946d85a7066cae9dc6acd1520a3](https://github.com/user-attachments/assets/7a60ce7d-d1e8-47e1-a349-047005028049)
 
 ## 03/25/2025
 I spent time researching various vacuum fan options for our debris collection subsystem, but most of them were unsuitable due to issues with voltage, size, or other limitations. After comparing several alternatives, I found a 12V computer cooling fan that might work for our needs and decided to purchase it for testing. Since our battery only supplies 3.7V, I also bought a voltage converter to ensure the fan receives the required power. Additionally, as we plan to solder our PCB in the coming days, I purchased soldering paste.
