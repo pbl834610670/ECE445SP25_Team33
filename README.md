@@ -10,6 +10,12 @@ We had our final demo today. In the morning, before the demonstration, we tested
 ## 04/28/2025
 Tomorrow is our final demo. During testing today, I realized that the code still needed some adjustments. I spent the evening improving it, and by the end of the night, the robot was able to operate smoothly on the table surface. However, the jack port for our PCB board still hasn’t arrived, so we’ll have to wait until tomorrow morning to test whether everything works as expected.
 
+## 04/21/2025
+Our robot car suddenly stopped working. At first, I suspected the issue was due to a drained battery, so I purchased a new pair of batteries and replaced the old ones, but the car was still not working. I then began to consider the possibility that the motor driver might have burned out, so I ordered a replacement just in case. Since we plan to transition to a new model for our robot car, I’m also considering reassembling all the components onto the new model once it’s ready.
+
+## 04/18/2025
+I measured the dimensions of various parts of our robot car to prepare for building our own model. The vacuum fan measures 13 cm by 13 cm, which is a key constraint for our design. To ensure effective cleaning, the width of the robot car should be slightly larger than 13 cm but not exceed it by too much. I also purchased the appropriate screwdriver to dismantle parts from the machine shop’s model so they can be reused in our new version. Additionally, I completed the team contract assessment on Canvas.
+
 ## 04/16/2025
 The machine shop finished building our robot car model and delivered it to us. However, the model turned out to be much larger than we expected. The most significant issue is that the width of the robot car is too wide—it greatly exceeds the coverage area of our vacuum fan. As a result, the cleaning subsystem cannot effectively cover the surface as the robot moves. To address this problem, I decided to create a new model that better fits the dimensions required for efficient cleaning.
 ![b35b8bb017a6796984d776e2eb9a51c](https://github.com/user-attachments/assets/f7692edc-ee05-4916-a949-4f35a4ce09da)
