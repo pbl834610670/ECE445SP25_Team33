@@ -10,6 +10,18 @@ We had our final demo today. In the morning, before the demonstration, we tested
 ## 04/28/2025
 Tomorrow is our final demo. During testing today, I realized that the code still needed some adjustments. I spent the evening improving it, and by the end of the night, the robot was able to operate smoothly on the table surface. However, the jack port for our PCB board still hasn’t arrived, so we’ll have to wait until tomorrow morning to test whether everything works as expected.
 
+## 04/25/2025
+I assembled all the components onto the new model, and it worked perfectly. We were able to properly install the development board, battery, ultrasonic sensor, and IR sensors without any issues. However, after mounting the cooling fan, I noticed that it sits too far from the ground, which prevents it from effectively collecting dust. To address this, I decided to try using a file to shorten the three support pillars holding the fan, so it can sit closer to the surface and improve suction performance.
+
+## 04/24/2025
+To avoid material waste, we printed partial sections of our model to test whether the dimensions were accurate. After confirming the fit of the partial prints, we printed the full model in separate parts. Once all parts were printed, I planned to assemble them later into the complete structure.
+
+## 04/23/2025
+I spent time working on designing the 3D print model using Autodesk Fusion under with help from our TA. Interestingly, during this process, the robot car unexpectedly started working again. I'm not exactly sure what caused it to begin functioning, but it was a surprising and welcome outcome.
+
+## 04/22/2025
+We had our mock demo today and presented the robot car we built to our TA. Although the hardware was assembled, the car’s functionality is still not working, so we were unable to demonstrate the complete features.
+
 ## 04/21/2025
 Our robot car suddenly stopped working. At first, I suspected the issue was due to a drained battery, so I purchased a new pair of batteries and replaced the old ones, but the car was still not working. I then began to consider the possibility that the motor driver might have burned out, so I ordered a replacement just in case. Since we plan to transition to a new model for our robot car, I’m also considering reassembling all the components onto the new model once it’s ready.
 
@@ -36,7 +48,7 @@ I completed the individual progress report today. In the report, I included a fl
 
 
 ## 04/01/2025
-We first tested whether the voltage converter could successfully step up the voltage from 3.7V to 12V. After confirming it worked as expected, we connected one end of the converter to the battery and the other end to the vacuum fan. We then tested the functionality of the cooling fan to ensure it was able to effectively suck up dust from the table surface. In addition, we discussed the design of our robot’s base boards with the staff at the machine shop.
+We first tested whether the voltage converter could successfully step up the voltage from 3.7V to 12V. After confirming it worked as expected, we connected one end of the converter to the battery and the other end to the vacuum fan. We then tested the functionality of the cooling fan to ensure it was able to effectively suck up dust from the table surface. In addition, we discussed the design of our robot’s base boards with the staff at the machine shop. During our discussion, a serious issue was brought up: since strong airflow is expelled from one of the cooling fan’s ports, using a plastic bin to collect dust would not work effectively. Bolin suggested an alternative solution which is using a sock instead of a bin. The sock would allow air to pass through while still being able to collect dust. I thought this was an excellent idea and a creative solution.
 
 ![53b5ac126a8ba9f1cceaa6f1c0ef8f8](https://github.com/user-attachments/assets/38aa8087-5397-4762-89d4-8078bfb12500)
 
