@@ -6,6 +6,7 @@ NetID: hluo12
 We had our final demo today. In the morning, before the demonstration, we tested our robot car one last time and made a slight adjustment to the code by modifying a condition statement to better ensure the robot wouldn't fall off the table. We also gathered some dust from room 2070 to use during the demo and show the cleaning functionality. During the demo, one of our power supply wires broke, but we were able to quickly repair it and continue. In the end, we successfully completed the final demonstration. Additionally, we recorded a video of our table-cleaning robot as part of our preparation for the extra credit submission.
 ![c3ad040ac136d7016f6a1cf2fd1eda6](https://github.com/user-attachments/assets/96299752-4722-407f-87af-fa69a3401db5)
 
+
 ## 04/28/2025
 Tomorrow is our final demo. During testing today, I realized that the code still needed some adjustments. I spent the evening improving it, and by the end of the night, the robot was able to operate smoothly on the table surface. However, the jack port for our PCB board still hasn’t arrived, so we’ll have to wait until tomorrow morning to test whether everything works as expected.
 
@@ -17,7 +18,9 @@ I worked on writing the code for the edge detection subsystem and began integrat
 
 ## 04/01/2025
 We first tested whether the voltage converter could successfully step up the voltage from 3.7V to 12V. After confirming it worked as expected, we connected one end of the converter to the battery and the other end to the vacuum fan. We then tested the functionality of the cooling fan to ensure it was able to effectively suck up dust from the table surface. In addition, we discussed the design of our robot’s base boards with the staff at the machine shop.
+
 ![53b5ac126a8ba9f1cceaa6f1c0ef8f8](https://github.com/user-attachments/assets/38aa8087-5397-4762-89d4-8078bfb12500)
+
 
 ## 03/31/2025
 We didn't place a PCB order during the third round due to issues we encountered while soldering our current board. Some of the pins were too closely spaced, which caused solder bridges and led to a short circuit on the board. Our team decided to focus on fixing this issue first.
@@ -26,9 +29,11 @@ We didn't place a PCB order during the third round due to issues we encountered 
 We assembled the electronic components for the obstacle avoidance subsystem and tested the code to verify its functionality. The system appears to be working well so far, but further adjustments may be necessary. This is because we still need to finalize and communicate our specific design requirements for the robot car to the machine shop, and wait for them to complete the final robot car model.
 ![f504946d85a7066cae9dc6acd1520a3](https://github.com/user-attachments/assets/7a60ce7d-d1e8-47e1-a349-047005028049)
 
+
 ## 03/25/2025
 I spent time researching various vacuum fan options for our debris collection subsystem, but most of them were unsuitable due to issues with voltage, size, or other limitations. After comparing several alternatives, I found a 12V computer cooling fan that might work for our needs and decided to purchase it for testing. Since our battery only supplies 3.7V, I also bought a voltage converter to ensure the fan receives the required power. Additionally, as we plan to solder our PCB in the coming days, I purchased soldering paste.
 ![af3d66f9ac77a96362a5bcd1abf75d4](https://github.com/user-attachments/assets/ac4ef819-c02a-4c25-818c-7b0c88bab1f7)
+
 
 ## 03/14/2025
 We discussed our design with the machine shop and brought up the idea of incorporating a robotic arm into our obstacle avoidance subsystem. The goal was to lift objects and clean the area underneath them. However, they advised us against implementing this feature due to its complexity and feasibility. As a result, we decided to simplify the design and focus on detecting and avoiding obstacles.
@@ -47,6 +52,7 @@ We completed the design document today, including finalizing the RV table and up
 ![f44b8bc611ab4006bd9b1bf04e2af41](https://github.com/user-attachments/assets/600d8142-6a10-4b4d-bce8-b72e63fb91fd)
 ![299f2aa982a2e6d1f79a8758fba2927](https://github.com/user-attachments/assets/c6a17014-1d42-40eb-bfc1-688750ee3ccd)
 
+
 ## 03/05/2025
 I completed the teamwork evaluation today and continued working on assembling the breadboard. I focused on connecting the key components and verifying that the basic circuits function correctly.
 
@@ -59,6 +65,7 @@ Today was the first round for PCB orders, but since we haven’t completed our P
 ## 02/26/2025
 I researched different options for the components we plan to use in each subsystem of our project. For each part, I compared different models to find the most suitable choices in terms of functionality, compatibility, and cost. To ensure that all components would work well together, especially in terms of voltage and current requirements, we carefully reviewed the datasheets of each component to avoid potential problem later in the development process.
 ![354e995e2dbcacfa44e6cf2160314b5](https://github.com/user-attachments/assets/46cbc1c2-cc4b-4208-b290-e6adb3fe9281)
+
 
 ## 02/21/2025
 We met to discuss the components we will use for each subsystem of our project. Initially, we planned to use a depth camera for detecting the edges of the table. However, after deciding to use only the Arduino Uno as our development board and realizing that the depth camera is relatively expensive and may not be easily compatible，we decided to switch to using ultrasonic sensors for both obstacle avoidance and edge detection. 
@@ -74,6 +81,7 @@ We finished writing our project proposal. We considered the details of each subs
 
 ![92246ff893ad7eb0628becd65d21ea5](https://github.com/user-attachments/assets/2afa7c5d-52d9-4d87-aa50-3ae9c6fe926d)
 ![41863a2be709c09de04f9ec003c0f94](https://github.com/user-attachments/assets/4d02a7ef-e6a6-475f-a698-08f91b930641)
+
 
 ## 02/11/2025
 We had our first group meeting this week, during which we discussed our goals and the tasks we need to complete for the rest of the semester. It gave us a clearer understanding of the project timeline. 
