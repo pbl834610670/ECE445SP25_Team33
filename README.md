@@ -6,6 +6,8 @@ NetID: hluo12
 We had our final demo today. In the morning, before the demonstration, we tested our robot car one last time and made a slight adjustment to the code by modifying a condition statement to better ensure the robot wouldn't fall off the table. We also gathered some dust from room 2070 to use during the demo and show the cleaning functionality. During the demo, one of our power supply wires broke, but we were able to quickly repair it and continue. In the end, we successfully completed the final demonstration. Additionally, we recorded a video of our table-cleaning robot as part of our preparation for the extra credit submission.
 ![c3ad040ac136d7016f6a1cf2fd1eda6](https://github.com/user-attachments/assets/96299752-4722-407f-87af-fa69a3401db5)
 
+## 04/28/2025
+Tomorrow is our final demo. During testing today, I realized that the code still needed some adjustments. I spent the evening improving it, and by the end of the night, the robot was able to operate smoothly on the table surface. However, the jack port for our PCB board still hasn’t arrived, so we’ll have to wait until tomorrow morning to test whether everything works as expected.
 
 ## 04/05/2025
 I worked on writing the code for the edge detection subsystem and began integrating it with the obstacle avoidance code. Further testing of the sensor readings is still needed to ensure smooth and successful integration. The logic may need to be adjusted to prevent any conflicts between the two subsystems.
