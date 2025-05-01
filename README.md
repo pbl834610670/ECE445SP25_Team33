@@ -8,6 +8,9 @@ I worked on writing the code for the edge detection subsystem and began integrat
 ## 04/01/2025
 We first tested whether the voltage converter could successfully step up the voltage from 3.7V to 12V. After confirming it worked as expected, we connected one end of the converter to the battery and the other end to the vacuum fan. We then tested the functionality of the cooling fan to ensure it was able to effectively suck up dust from the table surface. In addition, we discussed the design of our robot’s base boards with the staff at the machine shop.
 
+## 02/14/2025
+Today, we worked on drafting our team contract. We established expectations and ground rules to ensure effective communication throughout the project. Additionally, we assigned specific roles and responsibilities to each team member based on their strengths and interests.
+
 ## 02/13/2025
 We finished writing our project proposal. We considered the details of each subsystem involved in our design and discussed the potential components we might use. We also evaluated different development boards to find out the one that best fits our project. I created the initial visual aid to help visualize our overall design. 
 
