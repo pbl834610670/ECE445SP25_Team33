@@ -2,6 +2,9 @@
 Name: Ann Luo\
 NetID: hluo12
 
+## 05/02/2025
+We had our mock presentation today. Since we are still finalizing our PowerPoint, there are a few pictures and videos that still need to be added. During the presentation, the TAs provided us with helpful suggestions for improvement. One key takeaway was the need to explain each component of our subsystems in more detail. I plan to revise my part accordingly to ensure the explanations are clearer and more informative.
+
 ## 04/29/2025
 We had our final demo today. In the morning, before the demonstration, we tested our robot car one last time and made a slight adjustment to the code by modifying a condition statement to better ensure the robot wouldn't fall off the table. We also gathered some dust from room 2070 to use during the demo and show the cleaning functionality. During the demo, one of our power supply wires broke, but we were able to quickly repair it and continue. In the end, we successfully completed the final demonstration. Additionally, we recorded a video of our table-cleaning robot as part of our preparation for the extra credit submission.
 ![c3ad040ac136d7016f6a1cf2fd1eda6](https://github.com/user-attachments/assets/96299752-4722-407f-87af-fa69a3401db5)
