@@ -1,0 +1,37 @@
+The design, development, and deployment of the Table Cleaning Robot must adhere to ethical principles to ensure safety, reliability, and responsible engineering practices. 
+This section assesses ethical issues and safety concerns, drawing guidance from the IEEE Code of Ethics.
+
+Public Safety and Welfare
+According to IEEE code #1 [5]: “Hold paramount the safety, health, and welfare of the public”, public safety and welfare must be ensured. 
+The Table Cleaning Robot must operate safely without causing harm to users, pets, or property. 
+It must be designed to prevent falls and avoid pushing objects off the table so that no one will get hurt during the cleaning process. 
+Therefore, rigorous testing for edge detection, fall prevention, and obstacle detection is required. 
+
+Honesty and Transparency in Design
+According to IEEE code #5: “Be honest and realistic in stating claims or estimates based on available data”, honesty and transparency in design are required. 
+The capabilities of the robot should be accurately presented. 
+If the robots have limitations, the limitations must be clearly disclosed.
+
+Privacy Protection
+According to IEEE code #4: “Avoid unlawful conduct in professional activities”, we as designers should notice the importance of privacy protection. 
+When we use visual sensors, we must ensure that data is encrypted, avoid storing unnecessary information, and comply with privacy regulations.
+
+Fairness and Non-Discrimination
+The project must not create biased or discriminatory outcomes. 
+We will conduct bias testing and ensure inclusivity in design and deployment.
+
+Mechanical and Electrical Hazards
+The robot has moving parts that could cause injury if mishandled. Electrical components, particularly lithium-ion batteries, pose risks of overheating or short-circuiting. 
+Implementation of protective casing around moving parts can mitigate the hazards.
+
+Fall Prevention and Object Handling Risks
+The robot must reliably detect table edges to avoid falling and prevent damage to itself and surrounding objects. 
+If the robot attempts to move objects, it could accidentally push items off the table.
+Therefore, high-precision edge detection systems and object detection systems should be strictly tested. 
+Also, implementing redundant safety measures will mitigate risks of failure in mission-critical applications.
+
+
+
+
+
+
