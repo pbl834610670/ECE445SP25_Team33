@@ -2,6 +2,11 @@
 Name: Ann Luo\
 NetID: hluo12
 
+
+
+## 05/05/2025
+We had our final presentation today. Before the presentation, we made final adjustments to our PowerPoint slides, and I spent time at home practicing my part to ensure a smooth delivery. The presentation went well—we successfully presented our project and were able to answer the questions confidently. Through the progress we’ve made this semester, I’ve learned a lot, both technically and collaboratively. I’m proud of what we accomplished, and I believe I will continue working on this project beyond the course.
+
 ## 05/02/2025
 We had our mock presentation today. Since we are still finalizing our PowerPoint, there are a few pictures and videos that still need to be added. During the presentation, the TAs provided us with helpful suggestions for improvement. One key takeaway was the need to explain each component of our subsystems in more detail. I plan to revise my part accordingly to ensure the explanations are clearer and more informative.
 
