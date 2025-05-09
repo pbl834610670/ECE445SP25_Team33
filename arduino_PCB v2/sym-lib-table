@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "arduino_SCH-altium-import")(type "KiCad")(uri "${KIPRJMOD}/arduino_SCH-altium-import.kicad_sym")(options "")(descr ""))
+)
